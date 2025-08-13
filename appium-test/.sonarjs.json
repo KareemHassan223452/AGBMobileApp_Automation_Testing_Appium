@@ -1,0 +1,5 @@
+{
+  "rules": {
+    "typescript:S4123": "off"
+  }
+}
