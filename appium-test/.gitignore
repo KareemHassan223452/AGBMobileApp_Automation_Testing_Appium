@@ -42,7 +42,11 @@ videos/
 logs/
 *.log
 
-# Note: package-lock.json and .sonarjs.json are now tracked
+# SonarQube files (auto-generated)
+.sonar/
+.sonarjs.json
+
+# Note: package-lock.json is now tracked
 
 # Temporary files
 tmp/
